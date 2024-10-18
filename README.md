@@ -1,4 +1,4 @@
-![WeatherApp Banner](Images/Project Banner.png)
+![WeatherApp Banner](Images/Banner.png)
 
 # Weather Application Using OpenWeather API
 
