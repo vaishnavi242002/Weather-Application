@@ -68,9 +68,8 @@ Follow these steps to set up the WeatherApp on your local machine:
 ## Screenshots
 Here are some screenshots of the WeatherApp in action:
 
-1. ![WeatherApp Screenshot 1](screenshots/1l.jpeg)
-2. ![WeatherApp Screenshot 2](screenshots/2l.jpeg)
-3. ![WeatherApp Screenshot 3](screenshots/3s.jpeg)
+1. ![WeatherApp Screenshot 1](Images/1st.png)
+2. ![WeatherApp Screenshot 2](Images/2nd.png)
 
 ## Created by:
 **Vaishnavi Rana**  
